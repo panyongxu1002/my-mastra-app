@@ -8,7 +8,7 @@
     "dev": "mastra dev",
     "build": "mastra build",
     "start": "mastra start",
-    "deploy:cloudflare": "pnpm run build && wrangler deploy --config wrangler.jsonc"
+    "deploy:cloudflare": "pnpm run build && wrangler deploy --config wrangler.jsonc --minify"
   },
   "keywords": [],
   "author": "",
