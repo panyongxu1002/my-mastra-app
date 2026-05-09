@@ -21,9 +21,6 @@
   "dependencies": {
     "@mastra/core": "^1.32.1",
     "@mastra/deployer-cloudflare": "^1.1.32",
-    "@mastra/evals": "^1.2.2",
-    "@mastra/loggers": "^1.1.1",
-    "@mastra/memory": "^1.17.5",
     "zod": "^4.4.3"
   },
   "devDependencies": {
